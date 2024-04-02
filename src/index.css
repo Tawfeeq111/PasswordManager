@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input[type=text] {
+    font-size: 0.85rem;
+}
+
+.fff{
+    position: relative;
+    left: 3px;
+}
+
+.poss{
+    position: relative;
+    top: 3px;
+}
+
+.pad{
+    padding-right: 3vh;
+}
+
+.padtd{
+    padding-left: 2vh;
+}
